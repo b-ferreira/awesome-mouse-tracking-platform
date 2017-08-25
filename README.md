@@ -71,11 +71,11 @@ The mouse tracking data strcuture is represented by the following **MongoDB** do
 
 ```json
 {
-	"id": "1239o1283019745019823",
-	"type": "mouse-move | click",
-	"x": 123,
-	"y": 123,
-	"dateTime": 12312451231
+  "id": "1239o1283019745019823",
+  "type": "mouse-move | click",
+  "x": 123,
+  "y": 123,
+  "dateTime": 12312451231
 }
 ```
 
